@@ -1,4 +1,6 @@
-### 👋 Welcome to my ~~Homepage~~ GitHub Repo 
+### 👋 Welcome to my GitHub Repo 
+![](https://visitor-badge.glitch.me/badge?page_id=kmlleo.kmlleo)  
+Take a Look at  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-soni-06b47018/)
 
 <p align="center"><img src="images/coding.gif" width="100"/></p>
 
